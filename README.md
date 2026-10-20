@@ -7,6 +7,9 @@ and your Apex starts Feed A, then Siri tells you once the Apex confirms it's run
 [![Works with](https://img.shields.io/badge/works%20with-iPhone%20%7C%20iPad%20%7C%20Mac-lightgrey.svg)](#requirements)
 [![Tested on](https://img.shields.io/badge/tested%20on-Apex%20AOS%205.16-0a7cc2.svg)](#faq)
 
+<a href="https://github.com/marcsupial/apex-siri-shortcuts/raw/main/shortcuts/Feed%20Mode%20A.shortcut"><img src="docs/images/download-feed-mode-a.svg" alt="Download the Feed Mode A shortcut"></a><br>
+<sub>Needs your Apex's address and login. [Install steps](#install)</sub>
+
 > [!IMPORTANT]
 > This is an unofficial community project, not affiliated with or endorsed by Neptune
 > Systems. It switches equipment on a live aquarium, so read [Safety](#safety) before
