@@ -72,9 +72,11 @@ Tips:
   dashboard.
 - **Anyone who can use Siri on your devices can start a feed**, including people
   talking to a HomePod in a shared room.
-- **Your Apex password is stored in the shortcut** and is visible to anyone who opens
-  it in the Shortcuts app. Don't share your copy after setting it up; share the
-  original file instead.
+- **Use an Apex password you don't use anywhere else.** The shortcut stores it, anyone
+  using your unlocked phone or Mac can read it there, and the Apex's login crosses your
+  network unencrypted. To share the shortcut, send people the GitHub link.
+  [Your Apex password in Shortcuts](docs/password-security.md) explains what protects
+  the password and what doesn't.
 - **Keep your Apex off the open internet.** Its dashboard uses plain HTTP, so don't
   forward ports to it from your router.
 
